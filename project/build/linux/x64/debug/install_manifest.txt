@@ -1,0 +1,14 @@
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/my_app2
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/lib/librust_lib_my_app2.so
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/manse/code/dart-rust-bindgen/my_app2/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf

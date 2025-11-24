@@ -1,4 +1,5 @@
 #! /usr/bin/env bash
+pushd project
 pushd rust
 cargo build --release
 popd

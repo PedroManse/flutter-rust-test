@@ -1,0 +1,1 @@
+ /home/manse/code/dart-rust-bindgen/my_app2/build/759fa50e28c921aad9acfc29d6c463a9/dart_build_result.json: 
